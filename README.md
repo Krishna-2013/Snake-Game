@@ -29,12 +29,14 @@ Control the snake, eat food, and try to get the highest score without hitting th
 
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/2bc41994-6e43-48da-a99b-b2f48f50f2ce" />
 
+---
 
-Example:
+---
+## 🚀 Live Demo
 
-```
-![Game Preview](preview.png)
-```
+https://krishna-2013.github.io/Snake-Game/
+
+---
 
 ---
 
